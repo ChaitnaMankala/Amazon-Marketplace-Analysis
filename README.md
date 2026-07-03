@@ -80,6 +80,3 @@ Typical dashboard views include:
 - Top performing categories
 - Category-level GMV distribution
 - Margin contribution by category
-
-
-t helpful, feel free to explore the rest of my analytics portfolio projects.
