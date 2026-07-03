@@ -64,7 +64,7 @@ Marketplace insights from this analysis are:
   
 # Dashboard Sections:
 
-Typical dashboard views include:
+Dashboard views include:
 
 ### Marketplace Overview
 - Total GMV
