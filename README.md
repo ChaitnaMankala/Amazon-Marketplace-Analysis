@@ -1,23 +1,23 @@
 # Amazon Marketplace Analysis
 
-A **marketplace analytics project** that evaluates **Amazon seller performance, unit economics, and category trends** using SQL, Excel, Python, and BI dashboards.
+A marketplace analytics project that evaluates Amazon seller performance, unit economics, and category trends using SQL, Excel, Python, and BI dashboards.
 
-This project simulates the type of analysis performed by **e-commerce analysts, marketplace analysts, and product analytics teams** to understand seller performance and marketplace profitability.
+This project simulates the type of analysis performed by e-commerce analysts, marketplace analysts, and product analytics teams to understand seller performance and marketplace profitability.
 
 **Project Objective:**
 
 Online marketplaces generate large volumes of transaction data.  
-This project demonstrates how analysts can convert that data into **business insights for marketplace strategy**.
+This project demonstrates how analysts can convert that data into business insights for marketplace strategy.
 
 Key objectives:
 
-- Analyze **Gross Merchandise Value (GMV)**
-- Evaluate **take rate and marketplace revenue**
-- Calculate **contribution margin**
-- Analyze **seller tier performance**
-- Identify **category-level growth opportunities**
+- Analyze Gross Merchandise Value (GMV)
+- Evaluate take rate and marketplace revenue
+- Calculate contribution margin
+- Analyze seller tier performance
+- Identify category-level growth opportunities
 
-The goal is to provide insights that help **marketplace operators optimize seller performance and revenue growth**.
+The goal is to provide insights that help marketplace operators optimize seller performance and revenue growth.
 
 **Business Questions Answered:**
 
@@ -62,8 +62,8 @@ Marketplace insights from this analysis are:
 - Low-tier sellers show inconsistent sales patterns
 - Category concentration indicates possible expansion opportunities
   
-**Dashboard Sections:
-**
+**Dashboard Sections:**
+
 Dashboard views include:
 
 **- Marketplace Overview:**
