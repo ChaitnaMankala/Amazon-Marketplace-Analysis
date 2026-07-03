@@ -4,7 +4,7 @@ A **marketplace analytics project** that evaluates **Amazon seller performance, 
 
 This project simulates the type of analysis performed by **e-commerce analysts, marketplace analysts, and product analytics teams** to understand seller performance and marketplace profitability.
 
-# Project Objective:
+**Project Objective:**
 
 Online marketplaces generate large volumes of transaction data.  
 This project demonstrates how analysts can convert that data into **business insights for marketplace strategy**.
@@ -19,7 +19,7 @@ Key objectives:
 
 The goal is to provide insights that help **marketplace operators optimize seller performance and revenue growth**.
 
-# Business Questions Answered:
+**Business Questions Answered:**
 
 This analysis answers key marketplace questions such as:
 
@@ -29,7 +29,7 @@ This analysis answers key marketplace questions such as:
 - Which sellers contribute the highest margins?
 - What trends indicate **growth opportunities or risk areas**?
 
-# Marketplace Metrics Analyzed:
+**Marketplace Metrics Analyzed:**
 
 Key metrics included in this analysis:
 
@@ -42,7 +42,7 @@ Key metrics included in this analysis:
 - Average Order Value
 - Revenue Trends Over Time
 
-# Tools & Technologies:
+**Tools & Technologies:**
 
 | Tool | Purpose |
 |-----|------|
@@ -52,7 +52,7 @@ Key metrics included in this analysis:
 | Power BI / Tableau | Interactive analytics dashboards |
 | CSV datasets | Marketplace transaction data |
 
-# Analysis Insights:
+**Analysis Insights:**
 
 Marketplace insights from this analysis are:
 
@@ -62,21 +62,21 @@ Marketplace insights from this analysis are:
 - Low-tier sellers show inconsistent sales patterns
 - Category concentration indicates possible expansion opportunities
   
-# Dashboard Sections:
-
+**Dashboard Sections:
+**
 Dashboard views include:
 
-### Marketplace Overview
+**- Marketplace Overview:**
 - Total GMV
 - Marketplace revenue
 - Average take rate
 
-### Seller Performance
+**- Seller Performance:**
 - GMV by seller tier
 - Revenue contribution by seller
 - Seller growth trends
 
-### Category Analysis
+**- Category Analysis:**
 - Top performing categories
 - Category-level GMV distribution
 - Margin contribution by category
