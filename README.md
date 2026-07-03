@@ -25,9 +25,9 @@ This analysis answers key marketplace questions such as:
 
 - Which seller tiers generate the most GMV?
 - What categories drive the highest marketplace revenue?
-- How does the marketplace **take rate impact profitability**?
+- How does the marketplace take rate impact profitability?
 - Which sellers contribute the highest margins?
-- What trends indicate **growth opportunities or risk areas**?
+- What trends indicate growth opportunities or risk areas?
 
 **Marketplace Metrics Analyzed:**
 
